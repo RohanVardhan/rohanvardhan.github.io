@@ -556,7 +556,7 @@ body .bar_group__bar.thin {
 
 }
 .bar_group{
-    position: relative;
+    position: static;
     z-index: 1;
 }
 body .bar_group__bar.thin:last-child {
