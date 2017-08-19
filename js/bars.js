@@ -2,7 +2,7 @@ function bar_group()
 {group_ident=1,$(".bar_group").each(function(){$(this).addClass("group_ident-"+group_ident),$(this).data("gid",group_ident),group_ident++})}
 
 function get_max()
-{$(".bar_group").each(function(){var t=[];$(this).children().each(function(){t.push($(this).attr("value"))}),max_arr["group_ident-"+$(this).data("gid")]=t,void 0!==$(this).attr("max")?$(this).data("bg_max",$(this).attr("max")):$(this).data("bg_max",100)})}
+{$(".bar_group").each(function(){var t=[];$(this).children().each(function(){t.push($(this).attr("value"))}),max_arr["group_ident-"+$(this).data("gid")]=t,void 0!==$(this).attr("max")?$(this).data("bg_max",$(this).attr("max")):$(this).data("bg_max",Math.max.apply(null,t))})}
 
 function data_labels()
 {$(".bar_group__bar").each(function(){void 0!==$(this).attr("label")&&$('<p class="b_label">'+$(this).attr("label")+"</p>").insertBefore($(this))})}
