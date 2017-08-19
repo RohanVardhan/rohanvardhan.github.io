@@ -469,6 +469,7 @@ h3.tittle:after, h3.tittle:before {
     right: 0;
     color: #eb5424;
 }
+
 .abt-gd-left h4 {
     margin-top: 40px;
     color: #10A7AF;
@@ -533,7 +534,7 @@ h3.w3l_head.two {
 body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 	display: block;
 	content: '';
-	position: static;
+	position: relative;
 	z-index: -1;
 }
 
