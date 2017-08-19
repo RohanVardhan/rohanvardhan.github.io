@@ -534,7 +534,7 @@ h3.w3l_head.two {
 body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 	display: block;
 	content: '';
-	position: relative;
+	position: absolute
 	z-index: -1;
 }
 
@@ -557,7 +557,7 @@ body .bar_group__bar.thin {
 
 }
 .bar_group{
-    position: absolute;
+    position: relative;
     z-index: 1;
 }
 body .bar_group__bar.thin:last-child {
