@@ -538,7 +538,7 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 }
 
 body .bar_group__bar.thin::before {
-  width: 100%;
+  width: 95%;
   height:17px;
   background: #fff;
 
@@ -1400,10 +1400,10 @@ p.counter {
 	}
 	.skills {
 		min-height: 6em;
-		padding-top: 3em;
+		padding-top: 2em;
 	}
 	.skill-agile h4 {
-		font-size: 1.1em;
+		font-size: 1.0em;
 	}
 	.skills.two {
 		min-height: 6em;
