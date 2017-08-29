@@ -1399,14 +1399,14 @@ p.counter {
 		margin-top: 1em;
 	}
 	.skills {
-		min-height: 467px;
+		min-height: 500px;
 		padding-top: 3em;
 	}
 	.skill-agile h4 {
 		font-size: 1.1em;
 	}
 	.skills.two {
-		min-height: 356px;
+		min-height: 500px;
 	}
 	.agileits_portfolio_grid {
 		padding: 0 4px;
