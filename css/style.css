@@ -1399,7 +1399,7 @@ p.counter {
 		margin-top: 1em;
 	}
 	.skills {
-		min-height: 800px;
+		min-height: 6em;
 		padding-top: 3em;
 	}
 	.skill-agile h4 {
