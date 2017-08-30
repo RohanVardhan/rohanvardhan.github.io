@@ -163,7 +163,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-       min-height: 600px;
+       min-height: 45s0px;
     position: relative;
 }
 .banner {
@@ -596,7 +596,7 @@ p.b_label {
 }
 .education-agile-grids {
     margin-top: 2em;
-    padding-top: 2em
+    padding-bottom: 2em
 }
 .education-agile-w3l-year h6 {
     color: #44c7f4;
