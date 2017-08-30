@@ -584,7 +584,7 @@ h3.w3l_head.two {
 }
 .bar-grids h6 {
     font-size: 1.1em;
-    color: #fff;
+    color: #000;
     margin-bottom: 0.6em;
 }
 .bar-grids h6 span {
@@ -670,7 +670,7 @@ p.b_label {
     text-transform: uppercase;
     letter-spacing:2px;
 	font-style:italic;
-	font-size:1em;
+	font-size:1.6em;
 }
 .education-agile-w3l-info p {
     font-size: 0.9em;
