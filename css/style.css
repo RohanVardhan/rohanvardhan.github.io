@@ -539,7 +539,7 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 }
 
 body .bar_group__bar.thin::before {
-  width: 100%;
+  width: 10%;
   height:17px;
   background: #000;
 
