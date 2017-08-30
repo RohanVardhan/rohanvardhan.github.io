@@ -157,7 +157,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    background: url(../images/banner.jpg) no-repeat center top;
+    /*background: url(../images/banner.jpg) no-repeat center top;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -657,7 +657,7 @@ p.b_label {
     background: #f3f2f2;
 }
 .education-agile-w3l-info h4 ,.education-agile-w3l-year h4{
-    font-size: 1.5em;
+    font-size: 2em;
     text-transform: uppercase;
     color: #333;
     letter-spacing: 2px;
@@ -671,7 +671,7 @@ p.b_label {
     text-transform: uppercase;
     letter-spacing:2px;
 	font-style:italic;
-	font-size:1.5em;
+	font-size:1.6em;
 }
 .education-agile-w3l-info p {
     font-size: 0.9em;
@@ -777,7 +777,7 @@ p.b_label {
 }
 /*-- //portfolio --*/
 #counter {
-    background: url(../images/banner.jpg) no-repeat center top;
+    /*background: url(../images/banner.jpg) no-repeat center top;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
