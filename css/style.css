@@ -583,17 +583,17 @@ h3.w3l_head.two {
     background-color: #44c7f4;
 }
 .bar-grids h6 {
-    font-size: 1.1em;
+    font-size: 2em;
     color: #000000;
     margin-bottom: 0.6em;
 }
 .bar-grids h6 span {
     float: right;
-    font-size: 0.9em;
+    font-size: 1.5em;
 }
 /*-----------------------------*/
 .skill-agile h4 {
-    font-size: 1.6em;
+    font-size: 2em;
     text-transform: uppercase;
     color: #fff;
     letter-spacing: 2px;
@@ -656,7 +656,7 @@ p.b_label {
     background: #f3f2f2;
 }
 .education-agile-w3l-info h4 ,.education-agile-w3l-year h4{
-    font-size: 1.6em;
+    font-size: 2em;
     text-transform: uppercase;
     color: #333;
     letter-spacing: 2px;
@@ -670,7 +670,7 @@ p.b_label {
     text-transform: uppercase;
     letter-spacing:2px;
 	font-style:italic;
-	font-size:1.6em;
+	font-size:2em;
 }
 .education-agile-w3l-info p {
     font-size: 0.9em;
