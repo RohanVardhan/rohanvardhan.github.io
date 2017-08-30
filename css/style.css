@@ -163,7 +163,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-       min-height: 45s0px;
+       min-height: 450px;
     position: relative;
 }
 .banner {
@@ -195,8 +195,9 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 
 .header-left img {
-    /*width: 100%;
-    border: 5px solid rgba(255, 255, 255, 0.68);*/
+    margin: 0 auto;
+    text-align: center;
+    border: 7px solid #44c7f4;
 }
 .header-right {
     padding-left: 3em;
