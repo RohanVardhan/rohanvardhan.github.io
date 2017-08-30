@@ -567,7 +567,7 @@ body .bar_group__bar.thin:last-child {
     margin: 3em 0 0;
 }
 p.b_label {
-    font-size: .9em;
+    font-size: 1.0em;
     text-transform: uppercase;
     color:#000000;
      margin-bottom: 1em;
