@@ -169,7 +169,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 .banner {
        margin: 0 auto;
     text-align: center;
-    padding-top: 6em;
+    padding-top: 3em;
 }
 .banner img {
        margin: 0 auto;
@@ -522,8 +522,8 @@ h3.w3l_head.two {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 600px;
-    padding-top: 2em;
+    min-height: 500px;
+    padding-top: 1em;
 }
 .skill-agile h4 {
     font-size: 1.6em;
@@ -596,6 +596,7 @@ p.b_label {
 }
 .education-agile-grids {
     margin-top: 2em;
+    padding-top: 2em
 }
 .education-agile-w3l-year h6 {
     color: #44c7f4;
@@ -1428,7 +1429,8 @@ p.counter {
 		padding-top: 3em;
 	}
 	.education-agile-grids {
-		margin-top:1em;
+		margin-top:2em;
+    padding-top: 2em
 	}
 }
 @media (max-width: 480px){
