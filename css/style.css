@@ -163,7 +163,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-       min-height: 715px;
+       min-height: 600px;
     position: relative;
 }
 .banner {
@@ -522,8 +522,8 @@ h3.w3l_head.two {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 690px;
-    padding-top: 9em;
+    min-height: 600px;
+    padding-top: 2em;
 }
 .skill-agile h4 {
     font-size: 1.6em;
