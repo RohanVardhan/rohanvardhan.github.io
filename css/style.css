@@ -195,8 +195,8 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 
 .header-left img {
-    width: 100%;
-    border: 5px solid rgba(255, 255, 255, 0.68);
+    /*width: 100%;
+    border: 5px solid rgba(255, 255, 255, 0.68);*/
 }
 .header-right {
     padding-left: 3em;
@@ -608,7 +608,7 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 body .bar_group__bar.thin::before {
   width: 10%;
   height:17px;
-  background: #000;
+  background: #000000;
 
 }
 .skill-agile {
