@@ -157,14 +157,20 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    /*background: url(../images/banner.jpg) no-repeat center top;*/
+    /*background: url(../images/banner.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
        min-height: 450px;
-    position: relative;
+    position: relative;*/
+      background:url(../images/banner1.jpg)no-repeat center 0px;
+  -webkit-background-size:cover;
+  background-size:cover;
+  -moz-background-size:cover;
+  position: relative;
+
 }
 .banner {
        margin: 0 auto;
@@ -671,7 +677,7 @@ p.b_label {
     text-transform: uppercase;
     letter-spacing:2px;
 	font-style:italic;
-	font-size:1.6em;
+	font-size:2em;
 }
 .education-agile-w3l-info p {
     font-size: 0.9em;
