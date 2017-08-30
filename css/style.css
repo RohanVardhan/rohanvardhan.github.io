@@ -539,9 +539,9 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 }
 
 body .bar_group__bar.thin::before {
-  width: 95%;
+  width: 100%;
   height:17px;
-  background: #fff;
+  background: #000;
 
 }
 .skill-agile {
