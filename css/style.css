@@ -569,6 +569,29 @@ h3.w3l_head.two {
     padding-top: 1em;
 
 }
+
+/*-----------------------------*/
+.bar-grids {
+    padding: 0 4em;
+}
+.progress {
+    height: 10px;
+    margin-bottom: 2.2em;
+    background-color: #2F2C06;
+}
+.progress-bar { 
+    background-color: #766E04;
+}
+.bar-grids h6 {
+    font-size: 1.1em;
+    color: #fff;
+    margin-bottom: 0.6em;
+}
+.bar-grids h6 span {
+    float: right;
+    font-size: 0.9em;
+}
+/*-----------------------------*/
 .skill-agile h4 {
     font-size: 1.6em;
     text-transform: uppercase;
