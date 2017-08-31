@@ -717,7 +717,7 @@ p.b_label {
     color: #44c7f4;
     text-transform: uppercase;
     letter-spacing:2px;
-	font-style:italic;
+	/*font-style:italic;*/
 	font-size:1.6em;
 }
 .education-agile-w3l-info p {
