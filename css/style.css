@@ -165,8 +165,8 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -ms-background-size: cover;
        min-height: 450px;
     position: relative;*/
-      background:url(../images/backdrop.jpg)no-repeat center 0px;
-      /*background: #ffffff*/
+      /*background:url(../images/backdrop.jpg)no-repeat center 0px;*/
+      background: #ffffff
    
   -webkit-background-size:cover;
   background-size:cover;
@@ -714,7 +714,7 @@ p.b_label {
     padding-bottom: 2em
 }
 .education-agile-w3l-year h6 {
-    color: #44c7f4;
+    color: #333;
     text-transform: uppercase;
     letter-spacing:2px;
 	/*font-style:italic;*/
