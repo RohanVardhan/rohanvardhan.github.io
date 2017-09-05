@@ -746,7 +746,8 @@ p.b_label {
 }
 
 .hovereffect .overlay {
-  position: absolute;
+  /*position: absolute;*/
+  position: relative;
   overflow: hidden;
   width: 80%;
   height: 80%;
@@ -793,7 +794,7 @@ p.b_label {
     background-color: transparent;
     color: #44c7f4;
     padding: 2em 0 0.5em;
-    opacity: 0;
+    opacity: 1;
     filter: alpha(opacity=0);
     -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
     transition: opacity 0.35s, transform 0.35s;
