@@ -703,21 +703,27 @@ p.b_label {
     padding: 8em 4em;
     background: #f3f2f2;
 }
-.education-agile-w3l-info h4 ,.education-agile-w3l-year h4{
+.education-agile-w3l-info h4{
     font-size: 1.6em;
     text-transform: uppercase;
     color: #333;
     letter-spacing: 2px;
 }
+.education-agile-w3l-year h4{
+    font-size: 1.6em;
+    text-transform: uppercase;
+    color: #44c7f4;
+    letter-spacing: 2px;
+  }
 .education-agile-grids {
     margin-top: 2em;
     padding-bottom: 2em
 }
 .education-agile-w3l-year h6 {
-    color: #333;
-    text-transform: uppercase;
-    letter-spacing:2px;
-	/*font-style:italic;*/
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing:2px;
+	font-style:italic;
 	font-size:1.6em;
 }
 .education-agile-w3l-info p {
