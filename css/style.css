@@ -1167,7 +1167,7 @@ p.counter {
 /*-- start-responsive-design --*/
 @media (max-width:1440px){
 	#home {
-		min-height: 578px;
+		min-height: 478px;
 	}
 	.education-w3l {
     padding: 6em 4em;
@@ -1224,7 +1224,7 @@ p.counter {
 }
 @media (max-width:1080px){
 	#home {
-		min-height: 494px;
+		min-height: 394px;
 	}
 	.callbacks_tabs {
 		bottom: -128%;
@@ -1251,7 +1251,7 @@ p.counter {
 }	
 @media (max-width: 991px){
 	#home {
-		min-height: 459px;
+		min-height: 359px;
 	}
 	.nav > li > a {
 		position: relative;
