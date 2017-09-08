@@ -1374,7 +1374,7 @@ p.counter {
 		color: #44c7f4!important;
 	}
 	#home {
-		min-height: 514px;
+		min-height: 414px;
 	}
 	.banner img {
 		border: 7px solid #44c7f4;
@@ -1697,7 +1697,7 @@ p.counter {
 		font-size: 0.85em;
 	}
 	#home {
-		min-height: 404px;
+		min-height: 304px;
 	}
 	.navbar-brand {
 		line-height: 35px;
