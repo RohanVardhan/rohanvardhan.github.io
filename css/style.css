@@ -165,9 +165,11 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -ms-background-size: cover;
        min-height: 450px;
     position: relative;*/
-      /*background:url(../images/backdrop.jpg)no-repeat center 0px;*/
+    
+      background:url(../images/backdrop.jpg)no-repeat center 0px;
+      
   background: url(../images/banner1.jpg) no-repeat center top;
-  height: 450px;
+  height: 250px;
   -webkit-background-size:cover;
   background-size:cover;
   -moz-background-size:cover;
