@@ -187,8 +187,8 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     border: 7px solid #44c7f4;
 }
 .banner-info{
-  background: url(../images/dott.png)repeat 0px 0px;
-  padding: 4em 0;
+  /*background: url(../images/dott.png)repeat 0px 0px;
+  padding: 4em 0;*/
 }
 .banner h2 {
     font-size: 3.5em;
