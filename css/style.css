@@ -1167,7 +1167,7 @@ p.counter {
 /*-- start-responsive-design --*/
 @media (max-width:1440px){
 	#home {
-		min-height: 678px;
+		min-height: 578px;
 	}
 	.education-w3l {
     padding: 6em 4em;
@@ -1224,7 +1224,7 @@ p.counter {
 }
 @media (max-width:1080px){
 	#home {
-		min-height: 594px;
+		min-height: 494px;
 	}
 	.callbacks_tabs {
 		bottom: -128%;
@@ -1251,7 +1251,7 @@ p.counter {
 }	
 @media (max-width: 991px){
 	#home {
-		min-height: 559px;
+		min-height: 459px;
 	}
 	.nav > li > a {
 		position: relative;
@@ -1324,7 +1324,7 @@ p.counter {
 }
 @media (max-width: 800px){
 	#home {
-		min-height: 518px;
+		min-height: 418px;
 	}
 	.callbacks_tabs {
 		bottom: -128%;
@@ -1425,7 +1425,7 @@ p.counter {
 }
 @media (max-width: 667px){
 	#home {
-		min-height: 464px;
+		min-height: 364px;
 	}
 	.slider-info p {
 		font-size: 0.9em;
@@ -1748,7 +1748,7 @@ p.counter {
 }
 @media (max-width:320px){
 	#home {
-		min-height: 404px;
+		min-height: 304px;
 	}
 	.navbar-brand {
 		line-height: 35px;
