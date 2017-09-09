@@ -1226,7 +1226,7 @@ p.counter {
 	#home {
 		min-height: 554px;
 	}
-	.callbacks_tabs {
+	.allbacks_tabs {
 		bottom: -128%;
 		left: 41%;
 	}
@@ -1378,7 +1378,7 @@ p.counter {
 	}
 	.banner img {
 		border: 7px solid #44c7f4;
-		/*width: 25%;*/
+		width: 20%;
 	}
 	.banner {
 		padding-top: 4em;
