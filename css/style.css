@@ -1224,7 +1224,7 @@ p.counter {
 }
 @media (max-width:1080px){
 	#home {
-		min-height: 394px;
+		min-height: 554px;
 	}
 	.callbacks_tabs {
 		bottom: -128%;
@@ -1324,7 +1324,7 @@ p.counter {
 }
 @media (max-width: 800px){
 	#home {
-		min-height: 418px;
+		min-height: 658px;
 	}
 	.callbacks_tabs {
 		bottom: -128%;
@@ -1425,7 +1425,7 @@ p.counter {
 }
 @media (max-width: 667px){
 	#home {
-		min-height: 364px;
+		min-height: 604px;
 	}
 	.slider-info p {
 		font-size: 0.9em;
@@ -1697,7 +1697,7 @@ p.counter {
 		font-size: 0.85em;
 	}
 	#home {
-		min-height: 304px;
+		min-height: 554px;
 	}
 	.navbar-brand {
 		line-height: 35px;
@@ -1748,7 +1748,7 @@ p.counter {
 }
 @media (max-width:320px){
 	#home {
-		min-height: 304px;
+		min-height: 554px;
 	}
 	.navbar-brand {
 		line-height: 35px;
