@@ -1451,7 +1451,7 @@ p.counter {
 	}
 	.banner img {
 		border: 5px solid #44c7f4;
-		/*width: 31%;*/
+		width: 20%;
 	}
 }
 @media (max-width: 640px){
@@ -1640,7 +1640,7 @@ p.counter {
 @media (max-width: 384px){
 	.banner img {
 		border: 5px solid #44c7f4;
-		/*width: 38%;*/
+		width: 20%;
 	}
 	.abt-gd-left.text-center {
 		float: left;
@@ -1730,7 +1730,7 @@ p.counter {
 	}
 	.banner img {
 		border: 5px solid #44c7f4;
-		/*width: 38%;*/
+		width: 20%;
 	}
 	.banner {
 		padding-top: 2em;
@@ -1768,6 +1768,6 @@ p.counter {
 	
 	.banner img {
 		border: 5px solid #44c7f4;
-		/*width: 45%;*/
+		width: 20%;
 	}
 }
