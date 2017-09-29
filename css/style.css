@@ -1167,7 +1167,7 @@ p.counter {
 /*-- start-responsive-design --*/
 @media (max-width:1440px){
 	#home {
-		min-height: 628px; /*min-height: 678px;*/
+		min-height: 578px; /*min-height: 678px;*/
 	}
 	.education-w3l {
     padding: 6em 4em;
