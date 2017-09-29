@@ -1167,7 +1167,7 @@ p.counter {
 /*-- start-responsive-design --*/
 @media (max-width:1440px){
 	#home {
-		min-height: 678px;
+		min-height: 628px; /*min-height: 678px;*/
 	}
 	.education-w3l {
     padding: 6em 4em;
@@ -1196,7 +1196,7 @@ p.counter {
 }
 @media (max-width:1280px){
 	.skills {
-		min-height: 696px;
+		min-height: 596px; /*min-height: 696px;*/
 	}
 	#counter {
 		min-height: 400px;
@@ -1224,7 +1224,7 @@ p.counter {
 }
 @media (max-width:1080px){
 	#home {
-		min-height: 594px;
+		min-height: 494px; /*min-height: 594px;*/
 	}
 	.allbacks_tabs {
 		bottom: -128%;
