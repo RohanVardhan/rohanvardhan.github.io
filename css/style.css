@@ -1374,7 +1374,7 @@ p.counter {
 		color: #44c7f4!important;
 	}
 	#home {
-		min-height: 514px;
+		min-height: 464px; /*min-height: 514px;*/
 	}
 	.banner img {
 		border: 7px solid #44c7f4;
@@ -1425,7 +1425,7 @@ p.counter {
 }
 @media (max-width: 667px){
 	#home {
-		min-height: 464px;
+		min-height: 394px; /*min-height: 464px;*/
 	}
 	.slider-info p {
 		font-size: 0.9em;
@@ -1697,7 +1697,7 @@ p.counter {
 		font-size: 0.85em;
 	}
 	#home {
-		min-height: 404px;
+		min-height: 344px; /*min-height: 404px;*/
 	}
 	.navbar-brand {
 		line-height: 35px;
@@ -1748,7 +1748,7 @@ p.counter {
 }
 @media (max-width:320px){
 	#home {
-		min-height: 404px;
+		min-height: 354px; /*min-height: 404px;*/
 	}
 	.navbar-brand {
 		line-height: 35px;
