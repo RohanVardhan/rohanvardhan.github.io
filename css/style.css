@@ -531,7 +531,7 @@ p.w3ls_head_para {
     color: #777;
     text-align: center;
     /*text-transform: uppercase;*/
-    letter-spacing: 5px;
+    /*letter-spacing: 5px;*/
 }
 .w3l-grids-about {
     margin-top: 3em;
