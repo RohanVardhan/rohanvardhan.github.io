@@ -1165,9 +1165,10 @@ p.counter {
 }
 /*-- //to-top --*/
 /*-- start-responsive-design --*/
+
 @media (max-width:1440px){
 	#home {
-		min-height: 578px; /*min-height: 678px;*/
+		min-height: 528px; /*min-height: 678px;*/
 	}
 	.education-w3l {
     padding: 6em 4em;
@@ -1196,7 +1197,7 @@ p.counter {
 }
 @media (max-width:1280px){
 	.skills {
-		min-height: 596px; /*min-height: 696px;*/
+		min-height: 696px; 
 	}
 	#counter {
 		min-height: 400px;
@@ -1205,7 +1206,7 @@ p.counter {
 		padding-top: 9em;
 	}
 	#home {
-		min-height: 639px;
+		min-height: 499px; /*min-height: 639px;*/
 	}
 	.banner img {
 		border: 7px solid #44c7f4;
